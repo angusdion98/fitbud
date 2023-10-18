@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fitbud-staging-220202-authRole",
+      "UnauthRoleArn": "arn:aws:iam::553855774845:role/amplify-fitbud-staging-220202-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::553855774845:role/amplify-fitbud-staging-220202-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-fitbud-staging-220202-deployment",
+      "UnauthRoleName": "amplify-fitbud-staging-220202-unauthRole",
+      "StackName": "amplify-fitbud-staging-220202",
+      "StackId": "arn:aws:cloudformation:eu-west-1:553855774845:stack/amplify-fitbud-staging-220202/54be2120-d334-11ed-850d-0a3de17e3787",
+      "AmplifyAppId": "d2d0jod9k42n9u"
+    }
+  }
+}
